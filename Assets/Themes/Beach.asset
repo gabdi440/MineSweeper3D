@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684bb26035d591f4598406236b8d95f4, type: 3}
+  m_Name: Beach
+  m_EditorClassIdentifier: 
+  name: Beach
+  theme: 1
+  buttonColor: {r: 0.5294118, g: 0.427451, b: 0.13725491, a: 0.69411767}
+  floorTexture: {fileID: 2800000, guid: 76d60634e419e1e4f992a2747627410f, type: 3}
+  obstacles:
+  - {fileID: 546623545628511761, guid: 839c6a2f64ee8814eb6159db6618f12d, type: 3}
+  - {fileID: 3746764790689446221, guid: a7a729abc156d424b9d965f62951ad24, type: 3}
+  - {fileID: 3607836729641558106, guid: b75edd9138c3250428343e9d2b7e99d6, type: 3}
+  - {fileID: 6074421672364329184, guid: 40e91ccb9e0c5d642bce1977ec385951, type: 3}
+  - {fileID: 5820097548445408624, guid: c4756b08e85d3e74cb18b37b17e24af1, type: 3}
+  - {fileID: 7676625050497852855, guid: 4134639b854d42f47bffa1d174a44080, type: 3}

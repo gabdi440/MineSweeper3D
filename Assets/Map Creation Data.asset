@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 694714ac0e0d20143ad2ee6cef9fc493, type: 3}
+  m_Name: Map Creation Data
+  m_EditorClassIdentifier: 
+  defaultTheme: {fileID: 11400000, guid: 112625ecd77c5b84c87e770711ebea0a, type: 2}
+  themes:
+  - {fileID: 11400000, guid: 3399ecf0a6392ba40ba0902535b49346, type: 2}
+  - {fileID: 11400000, guid: b5ab7862c07a93d4f9ba060e91954246, type: 2}
+  - {fileID: 11400000, guid: dd82d1e27f93a0c4892b9f3842c51621, type: 2}
+  - {fileID: 11400000, guid: b8f06d7df5185f4428af079b9b97c06d, type: 2}
+  - {fileID: 11400000, guid: ab62f1cad922fbf4da1bf449b35c545b, type: 2}

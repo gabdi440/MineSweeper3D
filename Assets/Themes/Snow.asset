@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684bb26035d591f4598406236b8d95f4, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: 
+  name: Forest
+  theme: 3
+  buttonColor: {r: 1, g: 1, b: 1, a: 0.69411767}
+  floorTexture: {fileID: 2800000, guid: 6a124cf05c844614ca95b97ec2c82011, type: 3}
+  obstacles:
+  - {fileID: 546623545628511761, guid: 839c6a2f64ee8814eb6159db6618f12d, type: 3}
+  - {fileID: 6062569327100271538, guid: 1de96f0f246c9bf498495a18b8221327, type: 3}
+  - {fileID: 3208103322634325722, guid: bb53ed85b49c4b24a925d09bee61cde2, type: 3}

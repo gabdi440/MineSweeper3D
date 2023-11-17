@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684bb26035d591f4598406236b8d95f4, type: 3}
+  m_Name: FalllbackTheme
+  m_EditorClassIdentifier: 
+  name: FallBackTheme
+  theme: 0
+  buttonColor: {r: 0.5294118, g: 0.427451, b: 0.13725491, a: 0.69411767}
+  floorTexture: {fileID: 2800000, guid: 8f2c476e329fef44596d8df9b2f4d615, type: 3}
+  obstacles:
+  - {fileID: 546623545628511761, guid: 839c6a2f64ee8814eb6159db6618f12d, type: 3}
+  - {fileID: 5519179659208860151, guid: f28b02ffdb8e1cd4eb9bcb34d716a20c, type: 3}
+  - {fileID: 3746764790689446221, guid: a7a729abc156d424b9d965f62951ad24, type: 3}
+  button: {fileID: 2924620749010652699, guid: 57e359e6a54a82e4491b3c1a6b3e8ac1, type: 3}
+  flag: {fileID: 4404151876740653589, guid: d0a6381031ccff84ab5d625b826bd0c4, type: 3}
+  questionMark: {fileID: 2482525506207506237, guid: 2b7f000422911cf4a8ca8beaaf9bd597,
+    type: 3}

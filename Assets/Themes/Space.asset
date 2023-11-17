@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684bb26035d591f4598406236b8d95f4, type: 3}
+  m_Name: Space
+  m_EditorClassIdentifier: 
+  name: Space
+  theme: 2
+  buttonColor: {r: 0.26666668, g: 0.26666668, b: 0.26666668, a: 0.69411767}
+  floorTexture: {fileID: 2800000, guid: e188a16d1c7b4ed4f8cb5101b598bbee, type: 3}
+  obstacles:
+  - {fileID: 6431347584323003762, guid: d65700f34c415b9478f0fa66d6f2a417, type: 3}
+  - {fileID: 3867330988247509971, guid: 0f45927fbc9238449af13ed0cf094a78, type: 3}
+  - {fileID: 546623545628511761, guid: 839c6a2f64ee8814eb6159db6618f12d, type: 3}
+  - {fileID: 3961223252684246571, guid: 5ab5b73906fbcea46823330bcb5f3b76, type: 3}
